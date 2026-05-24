@@ -1,6 +1,6 @@
 # 🏰 Tower Defense – v2.0
 
-Tower Defense profissional em Java com LWJGL 2 e Slick2D.
+Tower Defense em Java com LWJGL 2 e Slick2D.
 
 ## 📋 Requisitos
 
